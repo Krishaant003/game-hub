@@ -1,7 +1,11 @@
 # game-hub
 game-hub is a clone of RAWG.IO.  
 game-hub is  games search engine/ searching games.
-
+  
+Features:  
+->Dark/Light Mode  
+->Search based on category  
+  
 Language/Frameworks:  
 ->React    
 ->TypeScript    
@@ -12,7 +16,7 @@ Steps/Instruction to run locally:
 ->clone repository  
 ->install node  
 ->install Axios for sending http request to backend  
-->instal chakra ui  
+->install chakra ui  
 ->use "npm run dev" to host the website locally  
 -> use "npm run build" to build the website locally  
    
