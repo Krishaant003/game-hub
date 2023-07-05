@@ -17,6 +17,7 @@ const useData = <T>(endpoint : string, requestConfig?: AxiosRequestConfig, deps?
     const [error, setError] = useState("");
   
     useEffect(() => {
+        document.title="Game-Hub"
         const controller = new AbortController();
         setLoading(true)
       apiClient
