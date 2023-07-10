@@ -3,16 +3,19 @@ game-hub is a clone of RAWG.IO.
 game-hub is  games search engine/ searching games.
   
 Features:  
+-
 ->Dark/Light Mode  
 ->Search based on category  
   
-Language/Frameworks:  
+Language/Frameworks: 
+-
 ->React    
 ->TypeScript    
 ->Chakra UI  
 ->CSS,HTML  
 
-Steps/Instruction to run locally:    
+Steps/Instruction to run locally:   
+-
 ->clone repository  
 ->install node  
 ->install Axios for sending http request to backend  
